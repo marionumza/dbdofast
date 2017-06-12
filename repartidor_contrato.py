@@ -4,7 +4,7 @@
 #    Author: Softecnico SA
 #    Licence: 
 #
-##############################################################################
+############################################################################## 
 from openerp import models, fields
 
 def _get_image(self, cr, uid, ids, name, args, context=None):
